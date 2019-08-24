@@ -1,0 +1,9 @@
+C:\cursos\CodeNation\HashSHA1\HashSHA1\bin\Debug\HashSHA1.exe.config
+C:\cursos\CodeNation\HashSHA1\HashSHA1\bin\Debug\HashSHA1.exe
+C:\cursos\CodeNation\HashSHA1\HashSHA1\bin\Debug\HashSHA1.pdb
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.csprojResolveAssemblyReference.cache
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.frmhashSHA1.resources
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.Properties.Resources.resources
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.csproj.GenerateResource.Cache
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.exe
+C:\cursos\CodeNation\HashSHA1\HashSHA1\obj\Debug\HashSHA1.pdb
